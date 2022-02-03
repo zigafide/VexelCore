@@ -5,7 +5,7 @@ Modular plugins for Bukkit-based servers and the Velocity proxy software with st
 After working in the Minecraft server scene for a few years now, I've come to realize a few problems teams often face:
 - Whole plugins are made to add simple features.
 - Common methods are copy and pasted into multiple projects instead of being called from a central API.
-- Getting started if difficult due to lack of experience and all the initial setup that must be done even after the IDE is configured.
+- Getting started is difficult due to lack of experience and all the initial setup that must be done even after the IDE is configured.
 - Having multiple systems makes it more difficult to manage.
 
 VexelCore aims to solve these issues by:
